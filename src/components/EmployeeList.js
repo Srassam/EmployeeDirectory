@@ -3,7 +3,7 @@ import Table from 'react-bootstrap/Table';
 
 export default function Layout(props) {
     return (
-        <Table striped border hover>
+        <Table striped bordered hover>
             <thead>
                 <tr>
                     <th>name</th>
